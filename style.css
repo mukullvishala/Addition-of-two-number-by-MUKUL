@@ -1,0 +1,7 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.container-fluid{
+  background-color:black; border: solid 4px red; padding-left: 5%;}
+.container-fluid form{color: white; padding-top: 2%;width: 90%;}
